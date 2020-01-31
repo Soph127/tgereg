@@ -31,7 +31,7 @@
 
 }
 
-div[class^="privateChannels"] a[class^="channel"][href="/store"] {
+[class^="privateChannels"] a[class^="channel"][href="/store"] {
     display: none; 
 
 }
