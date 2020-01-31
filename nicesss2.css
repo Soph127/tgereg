@@ -1,11 +1,21 @@
 .container-3FojY8 {
     background-color: transparent;
-    padding-top: 0.0000001px;
-    padding-bottom: 0.0000001px;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
 
 .divider-3_HH5L {
-    margin-top: 2px;
-    margin-bottom: 2px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+
+.unreadPill-2HyYtt {
     display: none;
+    
+}
+
+.isUnread-3Ef-o9 {
+    border-color: transparent;
+
 }
